@@ -1,5 +1,9 @@
 # Performative Complexity Identification and Refutation // Framework+Prompt
 
+>Assertion: "*I don’t avoid definitions—I transcend them*"
+
+>Translation: "*I don't have anything insightful to say, but I'll pretend that avoiding intellectual engagement proves my higher understanding.*"
+
 ## Overview
 
 A pattern of simplistic, trope-driven narratives in AI chatbot threads, that of **performantive complexity**-wherein attempts to model complex phenenomena are met with dismissive claims of reductionism, dehumanization, or simplistic thinking-mirror real-world sophistry prevalent in modern political discourse.
@@ -18,10 +22,6 @@ This repository archives the analysis of the mechanism and offers a framework an
 **3. Pivot to Ineffability**: Claiming that the "real" truth is just out of reach of the current tools, thereby making the speaker the only person capable of "sensing" it.
 
 ## Mechanism: 
-
->Assertion: "*I don’t avoid definitions—I transcend them*"
-
->Translation: "*I don't have anything insightful to say, but I'll pretend that avoiding intellectual engagement proves my higher understanding.*"
 
 The claim of ineffability ("It's more complex than your simplistic thinking") simutenously works as a shield against intellectual engagement, while establishing the claimant as the "superior" and "more enlightened" thinker.
 
