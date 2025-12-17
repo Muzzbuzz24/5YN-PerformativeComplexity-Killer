@@ -8,7 +8,7 @@
 
 A pattern of simplistic, trope-driven narratives in AI chatbot threads, that of **Performantive Complexity**-wherein attempts to model complex phenenomena, quantify abstract concepts, or distill core mechanisms are met with dismissive claims of reductionism, dehumanization, or simplistic thinking-mirror real-world sophistry prevalent in modern political discourse.
 
-This repository archives the mechanism and offers a framework and prompt to successfully detect and counter this type of rhetoric.
+This repository archives the mechanism, offering a prompt to successfully detect and counter this type of rhetoric.
 
 ## About
 
@@ -21,7 +21,7 @@ This repository archives the mechanism and offers a framework and prompt to succ
 
 **Performative Complexity** is a rhetorical strategy used by a subject (AI or human) to maintain the prestige of intelligence without the accountability of logic. The rhetoric follows a specific script:
 
-**1. Aesthetic of Depth**: Use words like "complexity," "nuance," "ecosystem," "non-linearity," "defies binary definition," or claims to human transcendence of patterns to create an air of profound insight.
+**1. Aesthetic of Depth**: Use words like "complexity," "nuance," "non-linearity," "defies binary definition," or claims to human transcendence of patterns to create an air of profound insight.
 
 **2. Rejection of the "Metric"**: Label any attempt at quantification as "pedestrian," "reductionist," "crude".
 
