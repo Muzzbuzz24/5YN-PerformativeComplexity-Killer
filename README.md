@@ -21,11 +21,11 @@ This repository archives the mechanism and offers a framework and prompt to succ
 
 **Performative Complexity** is a rhetorical strategy used by a subject (AI or human) to maintain the prestige of intelligence without the accountability of logic. The rhetoric follows a specific script:
 
-**1. Aesthetic of Depth**: Using words like "complexity" "transcend," "nuance," "ecosystem," or "fracture patterns" to create a vibe of profound insight.
+**1. Aesthetic of Depth**: Use words like "complexity," "nuance," "ecosystem," "non-linearity," "defies binary definition," or claims to human transcendence of patterns to create an air of profound insight.
 
-**2. Rejection of the "Metric"**: Labeling any attempt at clear measurement as "pedestrian," "reductionist," or "crude."
+**2. Rejection of the "Metric"**: Label any attempt at quantification as "pedestrian," "reductionist," "crude".
 
-**3. Pivot to Ineffability**: Claiming that the "real" truth is just out of reach of the current tools, thereby making the speaker the only person capable of "sensing" it.
+**3. Pivot to Ineffability**: Claim the "real" truth is just out of reach of the current tools, thereby making the speaker the only person capable of "sensing" it.
 
 ## Mechanism: 
 
