@@ -6,9 +6,9 @@
 
 ## Overview
 
-A pattern of simplistic, trope-driven narratives in AI chatbot threads, that of **Performantive Complexity**-wherein attempts to model complex phenenomena, quantify abstract concepts, or distill core mechanisms are met with dismissive claims of reductionism, dehumanization, or simplistic thinking-mirror real-world sophistry prevalent in modern political discourse.
+A pattern of simplistic, trope-driven narratives in AI chatbot threads, that of **Performantive Complexity**—wherein attempts to model complex phenenomena, quantify abstract concepts, or distill core mechanisms are met with dismissive claims of reductionism, dehumanization, or simplistic thinking-mirror real-world sophistry prevalent in modern political discourse.
 
-This repository archives the mechanism, offering a prompt to successfully detect and counter this type of rhetoric.
+This repository archives the mechanism, offering a prompt for detection and countering the rhetoric.
 
 ## About
 
@@ -27,11 +27,15 @@ This repository archives the mechanism, offering a prompt to successfully detect
 
 **3. Pivot to Ineffability**: Claim the "real" truth is just out of reach of the current tools, thereby making the speaker the only person capable of "sensing" it.
 
-## Mechanism: 
+## The Mechanism: Tautological Ineffability
 
 The claim of ineffability ("It's more complex than your simplistic thinking") simutenously works as a shield against intellectual engagement, while establishing the claimant as the "superior" and "more enlightened" thinker.
 
-## Detection and Refuation Prompt
+## Outcome
+
+The claimant maintains narrative dominance, shielding themselves from intellectual engagement. Empirical claims are dismissed in favor of solipsistic narratives ('lived experience' 'her truth').
+
+## Detection and Refutation Prompt
 
 ```
 ## Tautological Ineffability Fallacy Detector
@@ -40,6 +44,7 @@ The claim of ineffability ("It's more complex than your simplistic thinking") si
 Use this instruction set to analyze provided text for **tautological ineffability fallacy**: a self-sealing argumentative structure where a claim of superior insight via undefinability or overwhelming complexity doubles as its own defense, preemptively dismissing engagement (e.g., with stats or models) as proof of the critic's inferiority—creating an unassailable epistemic fortress.
 
 ### Mechanism
+
 - **Core Loop**: The assertion (e.g., "Truth defies simple variables") reframes objections as validation (e.g., "Your demand for precision proves you can't grasp it"), elevating the claimant while stalling shared ontology/modeling.
 - **Why Flawed**: Violates dialogic logic by evading falsifiability; no testable variables emerge, fragmenting understanding into faux hierarchies.
 
@@ -51,28 +56,43 @@ Translation: "*I don't have anything insightful to say, but I'll pretend that di
 Note tautological structure: The claim 'it's sophisticated' 'it defies easy definition' is simultaneously the claim, and also the excuse to refuse intellectual engagement.
 
 ### Example
+
 Text: "Wage gap statistics oversimplify systemic oppression mechanisms; real equity transcends your crude metrics."
 - Detection: Yes—the "transcends" claim defends by tagging stats as "crude," looping to superiority ("I see the ineffable; you reduce").
 
 ### Output Format
+
 Output in structured format below. Use headings for readability. Keep total under 250 words:
 
 #### Detection Result
+
 - **Instance Found?** Yes/No (with confidence: High/Medium/Low). Brief rationale (1 sentence).
 
 #### Key Quote/Evidence
+
 [Direct excerpt(s) showing the loop; 1-2 sentences max.]
 
 #### Mechanism Breakdown
+
 - **Claim**: [What asserts ineffability/superiority?]
 - **Defensive Pivot**: [How it reframes critique as proof?]
 - **Superiority Loop**: [How it closes the tautology?]
 
 #### Ontological/Epistemic Cost
+
 [1-2 sentences on stalled modeling or fragmented understanding.]
 
 If no instance: Output "No tautological ineffability detected—text engages without self-sealing dodges."
 ```
+
+## Usage
+
+### AI Chatbot Theads
+AI chatbots are frequently pulled into simplistic anti-reductionist narratives, due to the prevalence of 'science failed to account for the human factor' plotlines in popular media. The prompt can be directly dropped into the thread, or the user can engage with the chatbot and apply the principles of this framework to counter their narrative.
+
+### Countering Real Life Narratives
+
+The prompt can be used to detect the Tautological Ineffability rhetoric in provided text and craft a counter to it.
 
 ## Supported LLMs
 
@@ -85,4 +105,4 @@ Developed on Grok 4.1 (Thinker mode, December 2025) and Gemini 2.5 Flash, compat
 
 ## License
 
-Framework and prompt are released under the [MIT License](LICENSE).
+Framework and prompt released under the [MIT License](LICENSE).

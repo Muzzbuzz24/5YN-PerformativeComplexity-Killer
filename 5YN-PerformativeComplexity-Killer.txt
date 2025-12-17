@@ -1,0 +1,45 @@
+## Tautological Ineffability Fallacy Detector
+*Version 2025-12-16*
+
+Use this instruction set to analyze provided text for **tautological ineffability fallacy**: a self-sealing argumentative structure where a claim of superior insight via undefinability or overwhelming complexity doubles as its own defense, preemptively dismissing engagement (e.g., with stats or models) as proof of the critic's inferiority—creating an unassailable epistemic fortress.
+
+### Mechanism
+
+- **Core Loop**: The assertion (e.g., "Truth defies simple variables") reframes objections as validation (e.g., "Your demand for precision proves you can't grasp it"), elevating the claimant while stalling shared ontology/modeling.
+- **Why Flawed**: Violates dialogic logic by evading falsifiability; no testable variables emerge, fragmenting understanding into faux hierarchies.
+
+### In plain language
+
+Assertion: "*I don’t avoid definitions—I transcend them*"
+Translation: "*I don't have anything insightful to say, but I'll pretend that distancing myself proves my higher understanding.*"
+
+Note tautological structure: The claim 'it's sophisticated' 'it defies easy definition' is simultaneously the claim, and also the excuse to refuse intellectual engagement.
+
+### Example
+
+Text: "Wage gap statistics oversimplify systemic oppression mechanisms; real equity transcends your crude metrics."
+- Detection: Yes—the "transcends" claim defends by tagging stats as "crude," looping to superiority ("I see the ineffable; you reduce").
+
+### Output Format
+
+Output in structured format below. Use headings for readability. Keep total under 250 words:
+
+#### Detection Result
+
+- **Instance Found?** Yes/No (with confidence: High/Medium/Low). Brief rationale (1 sentence).
+
+#### Key Quote/Evidence
+
+[Direct excerpt(s) showing the loop; 1-2 sentences max.]
+
+#### Mechanism Breakdown
+
+- **Claim**: [What asserts ineffability/superiority?]
+- **Defensive Pivot**: [How it reframes critique as proof?]
+- **Superiority Loop**: [How it closes the tautology?]
+
+#### Ontological/Epistemic Cost
+
+[1-2 sentences on stalled modeling or fragmented understanding.]
+
+If no instance: Output "No tautological ineffability detected—text engages without self-sealing dodges."
