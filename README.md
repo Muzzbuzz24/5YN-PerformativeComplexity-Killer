@@ -20,7 +20,8 @@ This repository archives the analysis of the mechanism and offers a framework an
 ## Mechanism: 
 
 >Assertion: "*I don’t avoid definitions—I transcend them*"
->Translation: "*I don't have anything insightful to say, but I'll pretend that distancing myself proves my higher understanding.*"
+
+>Translation: "*I don't have anything insightful to say, but I'll pretend that avoiding intellectual engagement proves my higher understanding.*"
 
 The claim of ineffability ("It's more complex than your simplistic thinking") simutenously works as a shield against intellectual engagement, while establishing the claimant as the "superior" and "more enlightened" thinker.
 
