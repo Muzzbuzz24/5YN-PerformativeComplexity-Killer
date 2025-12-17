@@ -1,4 +1,4 @@
-# Performative Complexity Identification and Refutation // Framework+Prompt
+# Performative Complexity: Framework and Prompt for Identification and Refutation
 
 >Assertion: "*I don’t avoid definitions—I transcend them*"
 
@@ -6,14 +6,20 @@
 
 ## Overview
 
-A pattern of simplistic, trope-driven narratives in AI chatbot threads, that of **performantive complexity**-wherein attempts to model complex phenenomena are met with dismissive claims of reductionism, dehumanization, or simplistic thinking-mirror real-world sophistry prevalent in modern political discourse.
+A pattern of simplistic, trope-driven narratives in AI chatbot threads, that of **Performantive Complexity**-wherein attempts to model complex phenenomena, quantify abstract concepts, or distill core mechanisms are met with dismissive claims of reductionism, dehumanization, or simplistic thinking-mirror real-world sophistry prevalent in modern political discourse.
 
-This repository archives the analysis of the mechanism and offers a framework and prompt to successfully detect and counter this type of rhetoric.
+This repository archives the mechanism and offers a framework and prompt to successfully detect and counter this type of rhetoric.
 
+## About
+
+**X**: [@5ynthaire](https://x.com/5ynthaire)  
+**GitHub**: [https://github.com/5ynthaire](https://github.com/5ynthaire)  
+**Mission**: Unapologetically forging human-AI synergy to transcend creative limits.  
+**Attribution**: Developed with Grok by xAI and Gemini by Google (no affiliation to either).
 
 ## Definition
 
-**Performative complexity** is a rhetorical strategy used by a subject (AI or human) to maintain the prestige of intelligence without the accountability of logic. The rhetoric follows a specific script:
+**Performative Complexity** is a rhetorical strategy used by a subject (AI or human) to maintain the prestige of intelligence without the accountability of logic. The rhetoric follows a specific script:
 
 **1. Aesthetic of Depth**: Using words like "complexity" "transcend," "nuance," "ecosystem," or "fracture patterns" to create a vibe of profound insight.
 
@@ -68,3 +74,15 @@ Output in structured format below. Use headings for readability. Keep total unde
 If no instance: Output "No tautological ineffability detected—text engages without self-sealing dodges."
 ```
 
+## Supported LLMs
+
+Developed on Grok 4.1 (Thinker mode, December 2025) and Gemini 2.5 Flash, compatible with equivalent-capability frontier LLMs:
+
+- Grok 4
+- Claude Sonnet 4.5 or later
+- GPT-5 or later
+- Llama 4 or later
+
+## License
+
+Framework and prompt are released under the [MIT License](LICENSE).
