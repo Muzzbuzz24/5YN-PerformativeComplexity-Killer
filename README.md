@@ -29,13 +29,11 @@ This repository archives the mechanism, offering a prompt for detection and coun
 
 **3. Pivot to Ineffability**: Claim the "real" truth is just out of reach of the current tools, thereby making the speaker the only person capable of "sensing" it.
 
+**Outcome**: The claimant maintains narrative dominance, shielding themselves from intellectual engagement. Empirical claims are dismissed in favor of solipsistic narratives ('lived experience' 'their truth').
+
 ## The Mechanism: Tautological Ineffability
 
 The claim of ineffability ("It's more complex than your simplistic thinking") simultaneously works as a shield against intellectual engagement, while establishing the claimant as the "superior" and "more enlightened" thinker.
-
-## Outcome
-
-The claimant maintains narrative dominance, shielding themselves from intellectual engagement. Empirical claims are dismissed in favor of solipsistic narratives ('lived experience' 'her truth').
 
 ## Detection and Refutation Prompt
 
@@ -140,7 +138,7 @@ AI chatbots are frequently pulled into simplistic anti-reductionist narratives, 
 </details>
 
 #### Example of Prompt Application (Perchance.org Custom AI Chatbot 2)
-*Context: Discussing improvements to failed behavioral test*
+*Context: Discussion of improvements to structured behavioral test*
 
 <details>
 
