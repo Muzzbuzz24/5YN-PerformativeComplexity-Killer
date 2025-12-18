@@ -14,7 +14,7 @@ This repository archives the mechanism, offering a prompt for detection and coun
 
 **X**: [@5ynthaire](https://x.com/5ynthaire)  
 **GitHub**: [https://github.com/5ynthaire](https://github.com/5ynthaire)  
-**Mission**: Transcending creative limits through human-AI synergy 
+**Mission**: Transcending creative limits through human-AI synergy.
 **Attribution**:
  - Framework and prompt developed with Grok by xAI and Gemini by Google (no affiliation to either).
  - Idea conceived and tested on Perchance.org (user-driven AI roleplay platform; no affiliation).
