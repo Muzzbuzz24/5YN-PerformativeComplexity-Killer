@@ -1,6 +1,6 @@
 # Performative Complexity: Framework and Prompt for Identification and Refutation
 
->Assertion: "*You can't box this in with your neat categories—real understanding flows beyond them.*"
+>Assertion: "*You can't box this in with your neat little categories—real understanding flows **beyond** them.*"
 
 >Translation: "*I don't have anything insightful to say, but I'll pretend that avoiding intellectual engagement proves my higher understanding.*"
 
