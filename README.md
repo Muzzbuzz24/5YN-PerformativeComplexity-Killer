@@ -6,7 +6,7 @@
 
 ## Overview
 
-A specific pattern of rhetorical dodges in AI chatbots mirrors and human discourse has been identified as **Performative Complexity**, wherein attempts to model complex phenomena, quantify abstract concepts, or distill core mechanisms are met with dismissive claims of reductionism, naivete, dehumanization, or simplistic thinking, creating a tautological loop of ineffability that allows the claimant to assert intellectual superiority while evading engagement.
+A specific pattern of rhetorical dodges in AI chatbots mirroring human discourse has been identified as **Performative Complexity**, wherein attempts to model complex phenomena, quantify abstract concepts, or distill core mechanisms are met with dismissive claims of reductionism, naivete, dehumanization, or simplistic thinking, creating a tautological loop of ineffability that allows the claimant to assert intellectual superiority while evading engagement.
 
 This repository archives the mechanism, offering a prompt for detection and countering the sophistric rhetoric.
 
